@@ -390,9 +390,9 @@ DEPENDENCIES
   uglifier
   unicorn
 
-#RUBY VERSION
-#   ruby 2.6.5p114
-PLATFORMS
-   ruby
+RUBY VERSION
+   ruby 2.6.5p114
+#PLATFORMS
+#   ruby
 BUNDLED WITH
    1.17.3
